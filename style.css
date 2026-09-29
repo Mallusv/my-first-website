@@ -78,3 +78,19 @@ footer {
     padding: 30px;
     color: #666;
 }
+.dark {
+    background-color: #111827;
+    color: white;
+}
+
+.dark section {
+    background-color: #1f2937;
+}
+
+.dark h2 {
+    color: #60a5fa;
+}
+
+.dark p {
+    color: #e5e7eb;
+}
